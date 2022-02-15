@@ -7,6 +7,10 @@ TagManager:
   - P1_Score_Text
   - P2_Score_Text
   - Goal
+  - Win_Sound
+  - PowerBall
+  - main_ball
+  - power_ball
   layers:
   - Default
   - TransparentFX
